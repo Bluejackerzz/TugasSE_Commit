@@ -8,7 +8,7 @@ int main() {
 
     hasil = a + b;
 
-    cout << hasil;
-
+    cout << "Hasil Pertambahan" << hasil;
+    
     return 0;
 }
